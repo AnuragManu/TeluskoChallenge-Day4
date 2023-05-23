@@ -9,4 +9,8 @@ Steps to run -
 
 
 Here is a Video Showing the steps after cloning the repo along with the Demo !
-[Screencast from 2023-05-23 14-50-08.webm](https://github.com/AnuragManu/TeluskoChallenge-Day4/assets/67887308/035b67ad-a6ce-4a8a-b7ca-bf80ce328fa8)
+
+
+
+https://github.com/AnuragManu/TeluskoChallenge-Day4/assets/67887308/b57fc650-7781-42e7-a23c-e496b09aab2a
+
