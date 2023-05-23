@@ -8,7 +8,7 @@ Steps to run -
 * Enjoy !!!!
 
 
-Here is a Video Showing the steps after cloning the repo along with the Demo !
+Here is a Video Showing the steps after cloning the repo along with the Demo (i'm using UBUNTU on my system so you might not get right click `open with...` option)!
 
 
 
